@@ -7,7 +7,7 @@ body{
 #body-header
 {
     height: 65vh;
-    background-image: linear-gradient(to bottom, rgba(196, 184, 184, 0.32 ), rgba(206, 198, 198, 0.32 )),url('images/back-head4.webp');
+    background-image: linear-gradient(to bottom, rgba(196, 184, 184, 0.32 ), rgba(206, 198, 198, 0.32 )),url('back-head4.webp');
     background-position: center;
     background-size: cover;
     background-attachment: fixed;
